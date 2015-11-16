@@ -14,13 +14,13 @@ This USB power for lab boards has a auto reset fuse that ensure that if it is sh
 
 ## Files:
 
-### Breakout ESP-01
+### My ESP-01 Breakout board
 - ESP8266_ESP-01_Breakout_2015-11-16 (.sch/.brd)
 
-### Programmer for ESP-01
+### ESP-01 Programmer
 - ESP8266-Programmer_2015-11-16 (.sch/.brd)
 
-### USB Power to lab board
+### USB Micro Power to lab board
 - USB_Micro_Power_to_lab_board_2015-11-16 (.sch/.brd)
 
 
@@ -30,3 +30,5 @@ This USB power for lab boards has a auto reset fuse that ensure that if it is sh
 ![ESP-01 Programmer](https://github.com/MatsK/My-ESP8266-stuff/blob/master/ESP8266-Programmer_2015-11-16.png "ESP-01 Programmer")
 
 ![USB Micro Power to lab board 2015-11-16](https://github.com/MatsK/My-ESP8266-stuff/blob/master/USB_Micro_Power_to_lab_board_2015-11-16.png "USB Micro Power to lab board 2015-11-16")
+
+
