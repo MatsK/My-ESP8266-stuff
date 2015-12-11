@@ -1590,7 +1590,7 @@ design rules under a new name.</description>
 <element name="JP4" library="pinhead" package="1X02" value="" x="49.53" y="2.54" smashed="yes">
 <attribute name="VALUE" x="46.99" y="-0.635" size="1.27" layer="27"/>
 </element>
-<element name="R1" library="resistor" package="0204/5" value="" x="42.799" y="3.048" smashed="yes" rot="R180">
+<element name="R1" library="resistor" package="0204/5" value="100" x="42.799" y="3.048" smashed="yes" rot="R180">
 <attribute name="NAME" x="42.7736" y="3.0226" size="0.9906" layer="25" ratio="10" rot="R180" align="center"/>
 <attribute name="VALUE" x="44.9326" y="5.3594" size="0.9906" layer="27" ratio="10" rot="R180"/>
 </element>
