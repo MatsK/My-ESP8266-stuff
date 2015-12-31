@@ -2,24 +2,38 @@
 Thumbs.db
 ehthumbs.db
 
-# Eagle CAD backup files
-*.s##
-*.b##
-*.s#1
-*.b#1
-*.s#2
-*.b#2
-*.s#3
-*.b#3
-*.s#4
-*.b#4
-*.s#5
-*.b#5
-*.s#6
-*.b#6
+# Ignore list for Eagle, a PCB layout tool
 
-# Folder config file
-Desktop.ini
+# Backup files
+*.s#?
+*.b#?
+*.l#?
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Eagle project file
+# It contains a serial number and references to the file structure on your computer.
+# comment the following line if you want to have your project file included.
+eagle.epf
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+*.dri
+*.drl
+*.gpi
+*.pls
+
+*.drd
+*.drd.*
+
+*.info
+
+*.eps
