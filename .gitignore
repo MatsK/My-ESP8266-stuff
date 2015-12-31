@@ -1,3 +1,29 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Eagle CAD backup files
+.s##
+.b##
+.s#1
+.b#1
+.s#2
+.b#2
+.s#3
+.b#3
+.s#4
+.b#4
+.s#5
+.b#5
+.s#6
+.b#6
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
 #################
 ## Eclipse
 #################
