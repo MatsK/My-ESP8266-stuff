@@ -17,6 +17,9 @@ This USB power for lab boards has a auto reset fuse that ensure that if it is sh
 ### My ESP-01 Breakout board
 - ESP8266_ESP-01_Breakout_2015-11-16 (.sch/.brd)
 
+### ESP-12 Breakout SMT
+- ESP-12_Breakout_SMT (.sch/.brd)
+
 ### ESP-01 Programmer
 - ESP8266-Programmer_2015-11-16 (.sch/.brd)
 
@@ -27,6 +30,9 @@ This USB power for lab boards has a auto reset fuse that ensure that if it is sh
 ## Picture of the different PCB
 ### My ESP-01 Breakout board
 ![My ESP-01 Breakout board](https://github.com/MatsK/My-ESP8266-stuff/blob/master/Doc/ESP8266_ESP-01_Breakout_2015-11-16.png "My ESP-01 Breakout board")
+
+## ESP-12 Breakout SMT board
+![ESP-12 Breakout SMT board](https://github.com/MatsK/My-ESP8266-stuff/blob/master/Doc/ESP-12_Breakout_SMT.png "ESP-12 Breakout SMT board")
 
 ### ESP-01 Programmer
 ![ESP-01 Programmer](https://github.com/MatsK/My-ESP8266-stuff/blob/master/Doc/ESP8266-Programmer_2015-11-16.png "ESP-01 Programmer")
